@@ -1,4 +1,4 @@
 
-<Version: 1.01>
+<Version: 1.10>
 /data/Endrit.json https://raw.githubusercontent.com/Orgfet/Nortram-update/main/Endrit(1).json
 <End of Version>
