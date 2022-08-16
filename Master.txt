@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/nortram-charfiles/Endrit(1).json https://raw.githubusercontent.com/Orgfet/Nortram-update/main/Endrit(1).json
+/data/Endrit.json https://raw.githubusercontent.com/Orgfet/Nortram-update/main/Endrit(1).json
 <End of Version>
