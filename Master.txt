@@ -1,1 +1,4 @@
 
+<Version: 1.01>
+/nortram-charfiles https://cdn.discordapp.com/attachments/872770440035196928/1008426377332129895/Endrit.json
+<End of Version>
